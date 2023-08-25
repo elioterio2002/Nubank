@@ -25,7 +25,7 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="./doc/silvestre.jpeg" width="100px">  | Silvestre Carlos Elioterio Neto | [Elioterio2002](https://github.com/elioterio2002) | [Linkedin](https://www.linkedin.com/in/silvestre-carlos-75baaa1b1/) | elioterio2002@gmail.com
+| Silvestre Carlos Elioterio Neto | [Elioterio2002](https://github.com/elioterio2002) | [Linkedin](https://www.linkedin.com/in/silvestre-carlos-75baaa1b1/) | elioterio2002@gmail.com
 
 ## :computer: Tecnologias
 
